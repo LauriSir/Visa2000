@@ -1,0 +1,35 @@
+{
+    "kysymykset": [{
+            "teksti": "Mikä on väkimäärältään Viron toiseksi suurin kaupunki",
+            "vaihtoehdot": [{
+                "teksti": "Narva",
+                "oikein": true
+            }, {
+                "teksti": "Pärnu",
+                "oikein": false
+            }, {
+                "teksti": "Tarto",
+                "oikein": false
+            }, {
+                "teksti": "Viljandi",
+                "oikein": false
+            }]
+        },
+        {
+            "teksti": "Kuinka monta kuuta on Saturnuksella?",
+            "vaihtoehdot": [{
+                "teksti": "4",
+                "oikein": false
+            }, {
+                "teksti": "5",
+                "oikein": false
+            }, {
+                "teksti": "6",
+                "oikein": false
+            }, {
+                "teksti": "7",
+                "oikein": true
+            }]
+        }
+    ]
+}
